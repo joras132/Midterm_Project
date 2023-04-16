@@ -1,10 +1,10 @@
 Nationality;Regional;Local;Venue;Type;Dietary
 Dutch;Asian;Fujian;Cafe;Seafood;Gluten Free Options
-Italian;Middle Eastern;;Diner;Contemporary;Halal
-French;Mediterranean;Nepali;Bar;Barbecue;Healthy
-American;European;Xinjiang;Pub;Sushi;Kosher
+Italian;Middle Eastern;Xinjiang;Diner;Contemporary;Halal
+French;Mediterranean;Yunnan;Bar;Barbecue;Healthy
+American;European;;Pub;Sushi;Kosher
 Indian;South American;;Grill;Soups;Vegan Options
-Japanese;International;Yunnan;Steakhouse;Pizza;Vegetarian Friendly
+Japanese;International;;Steakhouse;Pizza;Vegetarian Friendly
 NewZealand;African;;Wine Bar;Fusion;
 Belgian;Southwestern;;Brew Pub;;
 Chinese;Caribbean;;Delicatessen;;
@@ -76,3 +76,4 @@ Uzbek;;;;;
 Venezuelan;;;;;
 Vietnamese;;;;;
 Welsh;;;;;
+Nepali;;;;;
