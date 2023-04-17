@@ -1,9 +1,9 @@
-Goal of the midterm Project is to find either:
+The goal of the midterm Project is to find either:
 
-- A recommendation which type of restaurand is reccomended to frequent, based on its characteristics
-- A recommendation, which type of restaurant to open, in order to recieve good reviews / a good ranking
+- To predict the price of accommodation in a European city.
+- To predict the level of guest satisfaction  
 
-The Datasent used is scraped from the tripadvisor website and contains data on Location, cuisine, rank in the city, rating and number of reviews.
+A description of Airbnb´s stays in 9 European cities with the type of stay, prices and how far it is from the metro distance and city centre and many other details to perform the necessary analysis.
 
 Timeline:
 Monday	-	continued data cleaning, data enrichment, preliminary/visual data inspection
